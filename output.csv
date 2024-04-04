@@ -1,0 +1,43 @@
+Subject name and code,"Actuators in Control Systems - laboratory, PG_00047582"
+Field of study,"Automatic Control, Cybernetics and Robotics"
+Date of commencement of,October 2020 Academic year of 2021/2022
+studies,realisation of subject
+Education level,first-cycle studies Subject group Obligatory subject group in the
+"",field of study
+"",Subject group related to scientific
+"",research in the field of study
+Mode of study,Full-time studies Mode of delivery at the university
+Year of study,2 Language of instruction Polish
+Semester of study,4 ECTS credits 1.0
+Learning profile,general academic profile Assessment form assessment
+Conducting unit,"Department of Marine Electronic Systems -> Faculty of Electronics, Telecommunications and Informatics"
+Name and surname,Subject supervisor mgr inż. Aleksander Schmidt
+of lecturer (lecturers),Teachers dr inż. Jan Schmidt
+"",mgr inż. Aleksander Schmidt
+Lesson types and methods,Lesson type Lecture Tutorial Laboratory Project Seminar SUM
+of instruction,Number of study 0.0 0.0 15.0 0.0 0.0 15
+"",hours
+"",E-learning hours included: 0.0
+"",Adresy na platformie eNauczanie:
+Learning activity,Learning activity Participation in didactic Participation in Self-study SUM
+and number of study hours,classes included in study consultation hours
+"",plan
+"",Number of study 15 1.0 9.0 25
+"",hours
+Subject objectives,To get to know basic parameters and features of actuators - i.e. the commutateds DC engines and BLDC
+"","engines, stepping motors and relays (contact and non contact switching devices) - and methods of their"
+"",measurement .
+Learning outcomes,"Course outcomeSubject outcomeMethod of verification[K6_U21] can individually carryThe student has knowledge about[SU4] Assessment of ability toout an analysis of a managing anda methods of design and operationuse methods and toolscontrolling problem and is able toautomation systems usingindividually design, tune andexecutive elements.operate automatic regulation andcontrol systems, and usecomputers to control and monitordynamic systems[K6_U02] can perform tasksThe student has knowledge about[SU3] Assessment of ability torelated to the field of study in anprinciples of operationuse knowledge gained from theinnovative way as well as solveexecutive elements.subjectcomplex and nontypical problems,applying knowledge of physics, inchanging and not fully predictableconditions[K6_U09] can carry out a criticalThe student knows the[SU2] Assessment of ability toanalysis of the functioning offunctionalities of existing technicalanalyse informationexisting technical solutions andsolutions related to the field ofassess these solutions, as well asstudy.apply experience related to themaintenance of technical systems,devices and facilities typical forthe field of studies, gained in theprofessional engineeringenvironment[K6_U03] can design, according toStudent is able to make a simple[SU4] Assessment of ability torequired specifications, and makedesign of device or system designuse methods and toolsa simple device, facility, system oraccording to the givencarry out a process, specific to thespecification.field of study, using suitablemethods, techniques, tools andmaterials, following engineeringstandards and norms, applyingtechnologies specific to the field ofstudy and experience gained inthe professional engineeringenvironment",Course outcome,Subject outcome,Method of verification,
+"",,"[K6_U21] can individually carryout an analysis of a managing andcontrolling problem and is able toindividually design, tune andoperate automatic regulation andcontrol systems, and usecomputers to control and monitordynamic systems","The student has knowledge abouta methods of design and operationautomation systems usingexecutive elements.","[SU4] Assessment of ability touse methods and tools",
+"",,"[K6_U02] can perform tasksrelated to the field of study in aninnovative way as well as solvecomplex and nontypical problems,applying knowledge of physics, inchanging and not fully predictableconditions","The student has knowledge aboutprinciples of operationexecutive elements.","[SU3] Assessment of ability touse knowledge gained from thesubject",
+"",,"[K6_U09] can carry out a criticalanalysis of the functioning ofexisting technical solutions andassess these solutions, as well asapply experience related to themaintenance of technical systems,devices and facilities typical forthe field of studies, gained in theprofessional engineeringenvironment","The student knows thefunctionalities of existing technicalsolutions related to the field ofstudy.","[SU2] Assessment of ability toanalyse information",
+Subject contents,,,,,
+"","1. Measurements of fundamental parameters of contact and non contact switching devices2. Parameters of discrete drive with stepping motor (controller types, full-, half-, and micro-step work)3. Testing of dynamic characteristics of electric DC servo-motor4. Analysis of electric motors rotational speed controller",,,,
+"Prerequisitesand co-requisites",,,,,
+"Assessment methodsand criteria",,Subject passing criteria,Passing threshold,Percentage of the final grade,
+"",Reports of laboratory exercises,50.0%,100.0%,,
+Recommended reading,Basic literature,"1. Jerzy Kostro ""Elementy, urządzenia i układy automatyki"" - Czytelniana Wydziale ETI2. Silniki krokowe i sterowniki silników krokowych. Instrukcja obsługisterownika SMC64 - opis w sieci http://www.wobit.com.pl.3. Dane katalogowe przekaźników półprzewodnikowych SSR (http://sharp-world.com; http://www.irf.com)",,,
+"",Supplementary literature,No requirements,,,
+"",eResources addresses,,,,
+"Example issues/example questions/tasks being completed","1. Measurement of DC motor dynamic characteristics2. Advantages and disadvantages of micro-step operation of a two-phase, hybrid stepper motor.3. Basic differences of mechanical and semiconductor relays.",,,,
+Work placement,Not applicable,,,,
